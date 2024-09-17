@@ -25,8 +25,6 @@ Panatilihin nating matatag ang tono, pero propesyunal.
 
 Kung kaya mo, i-kunsidera mo ang pamamahagi ng liham na ito sa iyong mga forum at social media, at ipabatid sa mga manunulat na makakatulong sa ating pinaglalaban.
 
-**Pinagsasama-sama ang mga pull request sa loob ng 12 oras - dahil sa dami sila'y ipagsasama-sama sa mga magkakasamang pangkat.**
-
 Puwede rin i-fork at clone ang repo. Gumawa ng file na `_data/signed/<username>.yaml` nang manu-mano, tapos i-commit at mag-submit ng PR.
 
 Kung gusto mong suportahan ang liham nang **hindi ginagamit ang Github**, puntahan ito: https://codeberg.org/rms-support-letter/rms-support-letter/issues/1,
@@ -34,18 +32,23 @@ o magpadala ng nakapirmang tapal sa [signrms@prog.cf](mailto:signrms@prog.cf) o 
 
 Kung kailangan mo pa rin ng tulong sa pamamagitan ng biswal na tagubilin, may [bidyo](https://invidious.snopyta.org/watch?v=1lz5S5oS8CU) para rito.
 
-**Lahat ng mga pirma ay ipoproceso sa loob ng 12 oras - dahil sa napalaking bilang ng mga PR**
+### Nagbago ba ang isip mo at gusto mong ipatanggal ang iyong pirma mula sa liham laban kay Richard Stallman?
+Puwede mong ipakita ang iyong intensyon dito: https://github.com/rms-support-letter/revoke-open-letter-signature
 
 ## Mga silid pang-usap
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
-- **IRC:** #free-rms sa [freenode](https://freenode.net)
+- **IRC:** #freerms sa [libera](http://libera.chat/) ([usap-sapot](http://kiwiirc.com/client/irc.libera.chat/#freerms))
+- **XMPP/jabber:** support-rms@conf.marc-o.win
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 
+## Kaibigan namin
+https://stallmansupport.org/
+
 ## Makipag-ugnay
 Kung isa kang miyembro o kumakatawan ng isang pahayagan, o isang youtuber, puwede kang makipag-ugnay sa amin sa pamamagitan ng e-liham:
-- rms-support-letter@protonmail.com
+- [rms-support-letter@protonmail.com](mailto:rms-support-letter@protonmail.com)
 
 ## Lisensiya
 Ang kodigo sa imbakan na ito ay nakalisensya lamang sa GPL-3.0.

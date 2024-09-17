@@ -1,4 +1,4 @@
-# Thư ngỏ ủng hộ
+# Thư ngỏ ủng hộ RMS
 
 Để ký, **nhấn vào [đây][ghpr]** và đặt tên tệp là `<tên tài khoản>.yaml`
 (thay `<tên tài khoản>` bằng tên tài khoản của bạn) với nội dung như sau:
@@ -43,7 +43,7 @@ Nếu bạn cần hỗ trợ bằng hướng dẫn trực quan, xem [video này]
 ## Phòng chat
 
 - **Matrix:** [#free-rms:matrix.org][matrix]
-- **IRC:** #free-rms trên [freenode]
+- **IRC:** #free-rms trên [libera]
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
 
@@ -53,4 +53,4 @@ Nếu bạn cần hỗ trợ bằng hướng dẫn trực quan, xem [video này]
 [srht]: mailto:~tyil/rms-support@lists.sr.ht
 [yt]: https://invidious.snopyta.org/watch?v=1lz5S5oS8CU
 [matrix]: https://matrix.to/#/#free-rms:matrix.org
-[freenode]: https://freenode.net
+[libera]: https://libera.chat

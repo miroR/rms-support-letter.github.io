@@ -16,7 +16,7 @@ link: https://github.com/Beispiel_nutzername
 ```
 
 Benutze in dieser Datei `<>` nicht, und verwende im Dateinamen keine nicht-ascii Symbole .
-Wenn Sie Ihre E-Mail als Link verwenden, stellen Sie sie `mailto`: voran. 
+Wenn du deine E-Mail als Link verwendest, stelle sie mit `mailto`: voran. 
 Wenn es dir möglich ist, nutze bitte deinen echten Namen und füge Projekte und verbundene Organisationen in Klammern hinzu.
 
 Clicke dann **"Propose new file"** (Neue Datei vorschlagen) und gehe die folgenden Seiten durch, um ein Merge-Request zu erstellen.
@@ -40,6 +40,6 @@ Falls du visuelle Hilfe benötigst, verwende [dieses](https://invidious.snopyta.
 ## Chaträume (Englisch)
 
 - **Matrix:** [+free-rms:matrix.org](https://matrix.to/#/+free-rms:matrix.org)
-- **IRC:** #free-rms auf [freenode](https://freenode.net)
+- **IRC:** #freerms auf [libera](https://libera.chat)
 - **Discord:** https://discord.gg/7FWkxG4CsU
 - **Telegram:** https://t.me/free_rms
